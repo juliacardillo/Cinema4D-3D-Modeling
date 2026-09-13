@@ -1,4 +1,4 @@
-This repository includes some 3D modeling work I've done, specifically in Cinema4D and some in Blender. 
+This repository includes some 3D modeling work I've done, specifically in Cinema4D. 
 
 Please note that some of the files I've included are at least 4 years old, and so I've sadly lost the texture files for some of them (to be very honest I didn't think I would ever need it). I've included a rendering photo that I had on hand, when possible. 
 
